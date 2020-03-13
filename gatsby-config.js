@@ -2,9 +2,9 @@
 
 module.exports = {
   siteMetadata: {
-    title: `EKM API - Documentation`,
-    description: `Documentation for the EKM partner API`,
-    author: `@gatsbyjs`,
+    title: `Gatsby Typewind`,
+    description: `Kick off your next, great Gatsby project with this default starter. This starter ships with the main Gatsby configuration files you might need, typescript, tailwindcss, and eslint.`,
+    author: `@jackleecaldwell`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
